@@ -8,7 +8,7 @@ import Footer from '@/components/layout/footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'ShopHub - Modern E-commerce Platform',
+  title: 'Rk Clothes - Modern E-commerce Platform',
   description: 'Your one-stop shop for all fashion needs',
 };
 

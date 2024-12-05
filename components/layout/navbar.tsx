@@ -10,11 +10,16 @@ import { ThemeToggle } from "@/components/theme-toggle";
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
+
+  
   const categories = [
     { name: "Men", href: "/category/men" },
     { name: "Women", href: "/category/women" },
     { name: "Kids", href: "/category/kids" },
   ];
+
+
+
 
   return (
     <nav className="border-b">
@@ -22,7 +27,7 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-bold">
-              ShopHub
+            Rk Clothes
             </Link>
           </div>
 

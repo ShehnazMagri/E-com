@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">About ShopHub</h3>
+            <h3 className="text-lg font-semibold mb-4">About Rk Clothes</h3>
             <p className="text-sm text-muted-foreground">
               Your one-stop destination for all fashion needs. Quality products at
               competitive prices.
@@ -70,7 +70,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} ShopHub. All rights reserved.
+            © {new Date().getFullYear()} Rk Clothes. All rights reserved.
           </p>
         </div>
       </div>
