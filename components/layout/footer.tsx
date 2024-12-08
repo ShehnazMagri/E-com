@@ -70,7 +70,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Rk Clothes. All rights reserved.
+            © {new Date().getFullYear()} SM Clothes. All rights reserved.
           </p>
         </div>
       </div>
